@@ -38,7 +38,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramatc&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramatc&layout=compact&theme=tokyonight"/>
 </p>
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
