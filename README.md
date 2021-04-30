@@ -11,7 +11,7 @@
 <br/> -->
 [![Linkedin Badge](https://img.shields.io/badge/-Ramiro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-tanquias/) 
 [![Github Badge](https://img.shields.io/badge/-ramatc-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/ramatc)
-[![Mail Badge](https://img.shields.io/badge/-ramatc-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ramatc2002@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-rtanquiascornejo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rtanquiascornejo@gmail.com)
 
 
 
@@ -20,7 +20,7 @@
 💪🏼I am a passionate programmer from Argentina.
 - 🔭 I’m currently working on my collaborative project [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
 - 🕵 I’m currently learning **React**
-- 📫 How to reach me: ramatc2002@gmail.com <br>
+- 📫 How to reach me: rtanquiascornejo@gmail.com <br>
 <!-- - 💬 Ask me about anything [here](https://github.com/ramatc/ramatc/issues) -->
 
 
