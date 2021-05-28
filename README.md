@@ -15,7 +15,7 @@
 
 
 
-### Web Developer Full Stack Jr💻.
+### Web Developer Full Stack💻.
 
 💪🏼I am a passionate programmer from Argentina.
 - 🔭 I’m currently working on my collaborative project [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
