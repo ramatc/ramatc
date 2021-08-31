@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-ramatc-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/ramatc)
 [![Mail Badge](https://img.shields.io/badge/-rtanquiascornejo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rtanquiascornejo@gmail.com)
 
-### Web Developer Full Stack Jr💻.
+### Web Developer Full Stack💻.
 
 💪🏼I am a passionate programmer from Argentina.
 - 🔭 I’m currently working on my project [Red Impact](https://github.com/ramatc/red-impact)
