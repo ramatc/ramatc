@@ -29,7 +29,7 @@
 **📁My repos**
 <p align="left">
   <a href="https://github.com/ramatc/js-coderhouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramatc&repo=js-coderhouse&langs_count=5&theme=tokyonight">
+  <a href="https://github.com/ramatc/kicks-dh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramatc&repo=kicks-dh&langs_count=5&theme=tokyonight">
   <a href="https://github.com/ramatc/red-impact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramatc&repo=red-impact&langs_count=5&theme=tokyonight">
   <a href="https://github.com/ramatc/dashboard-kicks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramatc&repo=dashboard-kicks&langs_count=5&theme=tokyonight">
-  <a href="https://github.com/ramatc/mercado-liebre"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramatc&repo=mercado-liebre&langs_count=5&theme=tokyonight">
 </p>  
