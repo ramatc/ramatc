@@ -8,8 +8,7 @@
 ### Web Developer Full Stack💻.
 
 💪🏼I am a passionate programmer from Argentina.
-- 🔭 I’m currently working on my project [Red Impact](https://github.com/ramatc/red-impact)
-- 🕵 I’m currently learning **React**
+- 🕵 I’m currently learning **TypeScript** and **Next.js**
 - 📫 How to reach me: rtanquiascornejo@gmail.com <br>
 
 **Languages, Frameworks and Tools:**  &nbsp;
@@ -18,10 +17,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fafafa)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333)
+![Next.js](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fafafa)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
-
+![Firebase](https://img.shields.io/badge/-Firebase-0396de?style=for-the-badge&logo=Firebase&logoColor=f5820c)
 
 **:octocat: Github Statistics**
 <p>
