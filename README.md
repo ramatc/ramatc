@@ -32,7 +32,6 @@ I'm a full stack developer with a passion for building web applications that mak
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
 ![Firebase](https://img.shields.io/badge/-Firebase-0396de?style=for-the-badge&logo=Firebase&logoColor=f5820c)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
 
 ### 📊 Github Statistics
 <p>
