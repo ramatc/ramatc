@@ -5,10 +5,9 @@
 [![Mail Badge](https://img.shields.io/badge/-rtanquiascornejo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rtanquiascornejo@gmail.com)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='190'>
 
-###  Full Stack Web Developer💻
 
 💪🏼I am a passionate programmer from Argentina.
-- 🕵 I’m currently learning **TypeScript** and **Next.js**
+- 💻 I’m currently working as Full Stack Developer with **React.js** & **Nest.js** at "Consultoría Global S.A."
 - 📫 How to reach me: rtanquiascornejo@gmail.com <br>
 
 ### 🌟 About Me
