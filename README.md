@@ -34,10 +34,6 @@ Based in Buenos Aires, Argentina. Open to remote opportunities.
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
 
-**Testing**
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![React Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)
 
 **Tools**
 
