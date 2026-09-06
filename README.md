@@ -36,9 +36,9 @@ Based in Buenos Aires, Argentina. Open to remote opportunities.
 
 ### Featured Projects
 
-- **[Portfolio](https://github.com/ramatc/portfolio)** — Personal portfolio built with React and Next.js, deployed on Vercel.
-- **[Rick and Morty Wiki](https://github.com/ramatc/rick-and-morty-wiki)** — Web application built with React to browse characters, episodes, and locations.
-- **[Guess Pokémon](https://github.com/ramatc/guess-pokemon)** — Game built with React and TypeScript to identify Pokémon by silhouette.
+- **[Portfolio](https://ramatc.vercel.app/)** — Personal portfolio built with React and Next.js, deployed on Vercel.
+- **[Coda](https://github.com/ramatc/coda/)** — Music discovery social network. TypeScript monorepo (Next.js + NestJS + Prisma).
+- **[Vito](https://vitohabit.vercel.app/)** — A gamified habit tracker. You build habits, your buddy Vito grows with you.
 
 ### Get in Touch
 
