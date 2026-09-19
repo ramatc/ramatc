@@ -2,7 +2,7 @@
 
 ### About Me
 
-Full Stack Developer with 4 years of experience, currently focused on backend for financial systems. I build microservices with **NestJS** for banking modernization projects and fintech-banking integrations. Previously spent nearly 2 years as a React tutor at Coderhouse.
+Software with 4 years of experience, currently focused on backend for financial systems. I build microservices with **NestJS** for banking modernization projects and fintech-banking integrations. Previously spent nearly 2 years as a React tutor at Coderhouse.
 
 Based in Buenos Aires, Argentina. Open to remote opportunities.
 
